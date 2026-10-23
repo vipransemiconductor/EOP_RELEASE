@@ -1,9 +1,9 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "appName": "EOP",
   "company": "Vipran Semiconductor Pvt. Ltd.",
-  "releaseDate": "2026-10-22",
-  "downloadUrl": "https://github.com/vipransemiconductor/EOP_RELEASE/releases/download/v1.0.3/EOP-release.apk",
-  "releaseNotes": "Official Release v1.0.3: 3D Face Biometric Enrollment, Multi-Sample Liveness Verification, and Instant Attendance Punching.",
+  "releaseDate": "2026-10-23",
+  "downloadUrl": "https://github.com/vipransemiconductor/EOP_RELEASE/releases/download/v1.0.4/EOP-release.apk",
+  "releaseNotes": "Official Release v1.0.4: 3D Face Biometric Enrollment, Multi-Sample Liveness Verification, and Instant Attendance Punching.",
   "minSupportedVersion": "1.0.0"
 }
