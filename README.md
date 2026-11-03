@@ -4,13 +4,13 @@ Official standalone release distribution for the **EOP Face Attendance & HR Mobi
 
 ---
 
-## 📱 Latest Release: v1.0.4
+## 📱 Latest Release: v1.0.5
 
-- **Version**: `v1.0.4`
-- **Release Date**: October 23, 2026
+- **Version**: `v1.0.5`
+- **Release Date**: November 3, 2026
 - **Package**: `com.company.faceattendance`
 - **Architecture**: Universal Android APK (`armeabi-v7a`, `arm64-v8a`, `x86`, `x86_64`)
-- **Direct Download**: [Download EOP-release.apk](https://github.com/vipransemiconductor/EOP_RELEASE/releases/download/v1.0.4/EOP-release.apk)
+- **Direct Download**: [Download EOP-release.apk](https://github.com/vipransemiconductor/EOP_RELEASE/releases/download/v1.0.5/EOP-release.apk)
 
 ---
 
